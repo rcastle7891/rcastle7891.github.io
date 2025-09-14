@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "editor.defaultFormatter": "GitHub.copilot-chat",
+    "editor.formatOnPaste": true,
+    "editor.aiStats.enabled": true,
+    "editor.allowVariableFontsInAccessibilityMode": true,
+    "editor.codeActions.triggerOnFocusChange": true,
+    "editor.codeActionsOnSave": {
+        
+    }
+}
